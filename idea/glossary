@@ -1,0 +1,38 @@
+F
+
+friends - both agree to be (this one is separated from subscribe
+into two directions, but this can be a reason to become friends)
+
+G
+
+git - simple version control system. Useful commands are:
+fetch, checkout, merge, rebase, cherry-pick, commit, push, make a
+branch from current commit, amend, view annotations, compare
+branches, compare file with old versions
+
+I
+
+IntellijIDEA - developer environment with such features:
+  - search filenames
+  - search content of files by text pattern, regular expressions
+  are supported
+  - nice file viewer
+  - nice file editor with convenient shortcuts (look at ctrl+d to
+  duplicate a line)
+  - integrated with git
+  - integrated with command line
+  - integrated with program languages, you can write simple
+  programs to analyze the data
+  - simple file system operations (move, copy, delete)
+
+M
+
+multi-language content - english/russian as a start, other languages
+with language speaker checking to be correct/polite data. More
+languages you know more data you can understand by reading.
+
+S
+
+subscribe - you subscribe to somebody
+
+subscriber - somebody subscribe to you

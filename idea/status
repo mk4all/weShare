@@ -1,0 +1,24 @@
+
+git based implementation
+========================
+
+Why git
+-------
+- easy to contribute / easy to add to master branch
+- make advanced search requests based on text search with clear
+directory structure (freedom of making complex requests, you
+want)
+- distributed version control, access of any user to full data
+(idea of sharing)
+
+How to search a data
+--------------------
+One way is to use advanced text editors with advanced text search
+engines, for example IntellijIDEA.
+
+What benefits for contributors
+------------------------------
+- structure thinking about you tastes
+- summarize for each year progress, close to biography
+- git / IntellijIDEA experience, useful in any data storing
+- youshare community
