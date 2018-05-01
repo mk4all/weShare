@@ -1,0 +1,13 @@
+user: mk
+
+2014 year (ratings xx)
+- play/positive xx%
+  - top artists:
+    - artist1 (xx% play/positive ratings)
+    - artist2 (...)
+    - ... in one line if each less 10%
+  - top tracks
+    - track1 (...)
+    - ... 10 max
+- save xx%
+- trash xx%

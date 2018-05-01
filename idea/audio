@@ -1,0 +1,6 @@
+one user cannot have 1 track in 2+ playlists
+
+after changes in playlist
+- drop users who listen this playlist
+- inform them about changes (they will choose to follow or copy old playlist
+  as their own, with respect to owner)
