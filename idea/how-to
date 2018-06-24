@@ -1,0 +1,11 @@
+how-to
+------
+
+Currently all info is stored in git.
+Marks file is the text file.
+I (mk) store music files on smartphone, and make subdirectories and rename them
+to store marks. In git all playlists are composed from empty files with track
+names. So, after copying files from smartphone subdirectories to git emptyfile
+list, you will get correct names and order. All you need is to copy these names
+to txt file with marks. This can be done in Windows with cmd command in current
+directory, then dir /b command, Ctrl+Ñ, then Paste in any test editor.
