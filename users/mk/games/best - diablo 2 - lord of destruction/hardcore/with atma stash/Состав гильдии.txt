@@ -1,0 +1,13 @@
+Состав Гильдии (август 2011):
+    Амазонка Fairy_Dragon   - 70 уровень - Hell in progress      - MF2 196 (200%-250%)
+    Волшебница Girl_Dragon  - 65 уровень - Hell in progress      - MF4 435 (275%-300%)
+    Варвар Blood_Dragon     - 53 уровень - Nightmare in progress - MF0 36 (100%-150%) - MF2 168 (200%-250%)
+    Ассасин Blade_Dragon    - xx уровень - Nightmare in progress
+
+По MF (Magic Finding) есть уровни
+    MF0 0-64        дает 100%-150%
+    MF1 65-150 	    дает 150%-200%
+    MF2 150-300     дает 200%-250%
+    MF3 300-400     дает 250%-275%
+    MF4 400-500     дает 275%-300%
+    MF5 500+        дает 300%+
